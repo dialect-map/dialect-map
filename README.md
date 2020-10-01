@@ -32,6 +32,6 @@ Stretch goals for the project would include using NLP to automate parts of this 
 - Data: https://github.com/paperscape/paperscape-data 
 
 
-[dialect-map-ui]: https://github.com/ds3-nyu/data-science-dialect-map-react-ui
-[dialect-map-server]: https://github.com/ds3-nyu/data-science-dialect-map-server
-[dialect-map-retrieval]: https://github.com/ds3-nyu/data-science-dialect-map-retrieval
+[dialect-map-ui]: https://github.com/ds3-nyu-archive/ds-dialect-map-ui
+[dialect-map-server]: https://github.com/ds3-nyu-archive/ds-dialect-map-server
+[dialect-map-retrieval]: https://github.com/ds3-nyu-archive/ds-dialect-map-retrieval

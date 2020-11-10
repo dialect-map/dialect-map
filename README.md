@@ -2,6 +2,7 @@
 
 - PI: Kyle Cranmer
 - Student: Jiayi Du
+- Research Assistant: Quynh Nguyen
 - Advisor: Sinclert Pérez
 
 
@@ -23,6 +24,7 @@ Stretch goals for the project would include using NLP to automate parts of this 
 - [Project UI][dialect-map-ui]: the front-end interface
 - [Project Server][dialect-map-server]: the database access point
 - [Project Retrieval][dialect-map-retrieval]: the paper retrieval and analytic part
+
 
 ## Additional resources
 

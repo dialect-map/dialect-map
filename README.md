@@ -21,9 +21,11 @@ Stretch goals for the project would include using NLP to automate parts of this 
 
 ## Project repositories
 
-- [Project UI][dialect-map-ui]: the front-end interface
-- [Project Server][dialect-map-server]: the database access point
-- [Project Retrieval][dialect-map-retrieval]: the paper retrieval and analytic part
+- [Project UI][dialect-map-ui]: the front-end interface.
+- [Project Core][dialect-map-core]: the database core package.
+- [Project Public API][dialect-map-api]: the public access API.
+- [Project Metrics Pipeline][dialect-map-computing]: the metrics computing pipeline.
+- [Project Retrieval][dialect-map-retrieval]: the paper retrieval pipeline.
 
 
 ## Additional resources
@@ -34,6 +36,8 @@ Stretch goals for the project would include using NLP to automate parts of this 
 - Data: https://github.com/paperscape/paperscape-data 
 
 
-[dialect-map-ui]: https://github.com/ds3-nyu-archive/ds-dialect-map-ui
-[dialect-map-server]: https://github.com/ds3-nyu-archive/ds-dialect-map-server
+[dialect-map-ui]: https://github.com/dialect-map/dialect-map-ui
+[dialect-map-core]: https://github.com/dialect-map/dialect-map-core
+[dialect-map-api]: https://github.com/dialect-map/dialect-map-public-api
+[dialect-map-computing]: https://github.com/dialect-map/dialect-map-computing
 [dialect-map-retrieval]: https://github.com/ds3-nyu-archive/ds-dialect-map-retrieval

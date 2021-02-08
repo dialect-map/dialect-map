@@ -1,9 +1,9 @@
 # Data Science: Dialect map
 
 - PI: Kyle Cranmer
-- Student: Jiayi Du
+- Main developer: Sinclert Pérez
+- Research Assistant: Jiayi Du
 - Research Assistant: Quynh Nguyen
-- Advisor: Sinclert Pérez
 
 
 ## Project description
@@ -23,9 +23,10 @@ Stretch goals for the project would include using NLP to automate parts of this 
 
 - [Project UI][dialect-map-ui]: the front-end interface.
 - [Project Core][dialect-map-core]: the database core package.
-- [Project Public API][dialect-map-api]: the public access API.
-- [Project Metrics Pipeline][dialect-map-computing]: the metrics computing pipeline.
-- [Project Retrieval][dialect-map-retrieval]: the paper retrieval pipeline.
+- [Project Data][dialect-map-data]: the Arxiv-related static data.
+- [Project Private API][dialect-map-private-api]: the private access API.
+- [Project Public API][dialect-map-public-api]: the public access API.
+- [Project Computing][dialect-map-computing]: the metrics computing pipeline.
 
 
 ## Additional resources
@@ -33,11 +34,11 @@ Stretch goals for the project would include using NLP to automate parts of this 
 - Similar project: https://blog.paperscape.org
 - Front code: https://github.com/paperscape/paperscape-mapclient 
 - Back code: https://github.com/paperscape/paperscape-backend 
-- Data: https://github.com/paperscape/paperscape-data 
 
 
 [dialect-map-ui]: https://github.com/dialect-map/dialect-map-ui
 [dialect-map-core]: https://github.com/dialect-map/dialect-map-core
-[dialect-map-api]: https://github.com/dialect-map/dialect-map-public-api
+[dialect-map-data]: https://github.com/dialect-map/dialect-map-data
+[dialect-map-private-api]: https://github.com/dialect-map/dialect-map-private-api
+[dialect-map-public-api]: https://github.com/dialect-map/dialect-map-public-api
 [dialect-map-computing]: https://github.com/dialect-map/dialect-map-computing
-[dialect-map-retrieval]: https://github.com/ds3-nyu-archive/ds-dialect-map-retrieval

@@ -1,4 +1,4 @@
-# Data Science: Dialect map
+# Dialect map 🗺️
 
 - PI: Kyle Cranmer
 - Main developer: Sinclert Pérez

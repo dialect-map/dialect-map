@@ -3,7 +3,7 @@
 - PI: Kyle Cranmer
 - Main developer: Sinclert Pérez
 - Research Assistant: Jiayi Du
-- Research Assistant: Quynh Nguyen
+- NLP Data Scientist: Quynh M. Nguyen
 
 
 ## Project description

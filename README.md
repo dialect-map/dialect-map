@@ -16,7 +16,7 @@ is named on this fixed 2-D representation of the domain literature.
 
 This would be done with a hand created list of jargon terms, displayed in an interactive website.
 
-
+A more complete description of the project could be found on [NYU Data Science Blog](https://nyudatascience.medium.com/dialect-map-jargon-dialects-across-science-domains-908a62ead9ad). 
 ## Overview
 
 ![ui-overview][image-interface]
